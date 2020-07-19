@@ -58,4 +58,5 @@ My own templates and implementation of important algorithms and data structures 
   - [Meet In The Middle](https://github.com/ncduy0303/Competitive-Programming/blob/master/Other%20Classic%20Problems/Meet%20In%20The%20Middle.cpp)
   - [Binary Search](https://github.com/ncduy0303/Competitive-Programming/blob/master/Other%20Classic%20Problems/Binary%20Search.cpp)
   
-## Credit goes to ncduy303
+
+Original repository credit goes to ncduy303
