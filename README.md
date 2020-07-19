@@ -1,12 +1,6 @@
 # Competitive Programming
 My own templates and implementation of important algorithms and data structures for competitive programming purposes
 
-
-My profile: [Codeforces](https://codeforces.com/profile/caoduy73), [Dunjudge.me](https://dunjudge.me/users/g1760382k/)
-
-## Contest templates
-  - [My template C++](https://github.com/ncduy0303/Competitive-Programming/blob/master/Contest%20templates/cp_template.cpp)
-
 ## Graph
   - Graph Traversing ([DFS](https://github.com/ncduy0303/Competitive-Programming/blob/master/Graph/DFS.cpp), [BFS](https://github.com/ncduy0303/Competitive-Programming/blob/master/Graph/BFS.cpp))
   - [Flood Fill](https://github.com/ncduy0303/Competitive-Programming/blob/master/Graph/Flood%20Fill.cpp)
