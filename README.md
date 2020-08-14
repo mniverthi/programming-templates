@@ -1,6 +1,9 @@
 # Competitive Programming
 My own templates and implementation of important algorithms and data structures for competitive programming purposes
 
+## Additional Resources
+1. https://cses.fi/book/book.pdf
+
 ## Graph
   - Graph Traversing ([DFS](https://github.com/ncduy0303/Competitive-Programming/blob/master/Graph/DFS.cpp), [BFS](https://github.com/ncduy0303/Competitive-Programming/blob/master/Graph/BFS.cpp))
   - [Flood Fill](https://github.com/ncduy0303/Competitive-Programming/blob/master/Graph/Flood%20Fill.cpp)
